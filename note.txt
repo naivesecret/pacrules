@@ -1,0 +1,26 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+||en.wikipedia.org
+||*.wikipedia.org
+||wikimedia.org
+||www.svedruziclab.com
+||www.reddit.com
+||www.justmysocks.net
+||www.github.com
+||*.github.com
+||gitlab.com
+||camo.githubusercontent.com
+||*.githubusercontent.com
+||justmysocks.net
+||cloud.digitalocean.com
+||apps.apple.com
+||leetcode.com
+||www.topcoder.com
+||www.coursera.org
+||d3njjcbhbojbot.cloudfront.net
+||d3c33hcgiwev3.cloudfront.net
+||protonmail.com
+||store.playstation.com
+||screeps.com
+||screeps.slack.com
+@@||douyu.com
